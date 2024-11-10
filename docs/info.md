@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The design has three inputs and two outputs. when a 1 bit 3 inputs are given, design gives the sum and carry.
 
 ## How to test
 
-Explain how to use your project
+Give 1 bit 3 inputs and check the 1 bit sum and 1 bit carry.
 
 ## External hardware
 
